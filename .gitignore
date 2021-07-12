@@ -1,4 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
 # Python virtual environments
 venv
 project_env
-incep_v3_mask_model/
+
